@@ -1,0 +1,9 @@
+{
+  "name": "szhRequest",
+  "version": "1.0.0",
+  "description": "This library provides you with a convenient and easy way to work with queries using async/await and fetch API",
+  "main": "./src/library/",
+  "keywords": ["Request","Requests","Fetch","Async/Await","Async","Await"],
+  "author": "ShizzaHo",
+  "license": "MIT"
+}
